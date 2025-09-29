@@ -27,6 +27,19 @@ I build production-ready AI systems that solve real business problems. Specializ
 - ☁️ Architecting scalable chatbot solutions on AWS/Azure
 - 📚 Contributing to AI engineering best practices
 
+### 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GatrixZ&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=FD9047&icon_color=FD9047&text_color=C9D1D9)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=GatrixZ&theme=dark&hide_border=true&background=0D1117&ring=FD9047&fire=FD9047&currStreakLabel=FD9047)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GatrixZ&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FD9047&text_color=C9D1D9)
+
+</div>
+
+
 ### 💼 Featured Projects
 
 **🏥 Medical Mammography AI Analysis System**
